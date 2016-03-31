@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="email_nameText_textcolor">#333333</color>
+    <color name="email_addressText_textcolor">#999999</color>
+
+</resources>

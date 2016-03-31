@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/email_rootLinearLayout_padding_tb"
+    android:paddingLeft="@dimen/email_rootLinearLayout_padding_lr"
+    android:paddingRight="@dimen/email_rootLinearLayout_padding_lr"
+    android:paddingTop="@dimen/email_rootLinearLayout_padding_tb" >
+
+    <TextView
+        android:id="@+id/nameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/email_nameText_margin_b"
+        android:singleLine="true"
+        android:textColor="@color/email_nameText_textcolor"
+        android:textSize="@dimen/email_font_nameText" />
+
+    <TextView
+        android:id="@+id/addressText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textColor="@color/email_addressText_textcolor"
+        android:textSize="@dimen/email_font_addressText" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="email_rootLinearLayout_padding_tb">8dp</dimen>
+    <dimen name="email_rootLinearLayout_padding_lr">15dp</dimen>
+    <dimen name="email_font_nameText">18sp</dimen>
+    <dimen name="email_nameText_margin_b">10dp</dimen>
+    <dimen name="email_font_addressText">14sp</dimen>
+
+</resources>
